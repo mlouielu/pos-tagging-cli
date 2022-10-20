@@ -1,3 +1,8 @@
+try:
+    import readline
+except:
+    pass
+
 import sys
 import subprocess
 
