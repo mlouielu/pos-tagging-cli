@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pos-tagging-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Louie Lu <git@louie.lu>"]
 license = "MIT"
